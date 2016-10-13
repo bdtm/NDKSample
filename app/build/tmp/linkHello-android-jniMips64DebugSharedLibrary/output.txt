@@ -1,0 +1,4 @@
+See file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/linkHello-android-jniMips64DebugSharedLibrary/output.txt for all output for linkHello-android-jniMips64DebugSharedLibrary.
+linking libhello-android-jni.so successful.
+
+Finished linkHello-android-jniMips64DebugSharedLibrary, see full log file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/linkHello-android-jniMips64DebugSharedLibrary/output.txt.

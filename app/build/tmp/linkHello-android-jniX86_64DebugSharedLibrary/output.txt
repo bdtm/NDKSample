@@ -1,0 +1,4 @@
+See file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/linkHello-android-jniX86_64DebugSharedLibrary/output.txt for all output for linkHello-android-jniX86_64DebugSharedLibrary.
+linking libhello-android-jni.so successful.
+
+Finished linkHello-android-jniX86_64DebugSharedLibrary, see full log file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/linkHello-android-jniX86_64DebugSharedLibrary/output.txt.

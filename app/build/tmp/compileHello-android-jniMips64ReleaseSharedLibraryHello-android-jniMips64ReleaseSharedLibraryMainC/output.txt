@@ -1,0 +1,4 @@
+See file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/compileHello-android-jniMips64ReleaseSharedLibraryHello-android-jniMips64ReleaseSharedLibraryMainC/output.txt for all output for compileHello-android-jniMips64ReleaseSharedLibraryHello-android-jniMips64ReleaseSharedLibraryMainC.
+compiling hello-android-jni.c successful.
+
+Finished compileHello-android-jniMips64ReleaseSharedLibraryHello-android-jniMips64ReleaseSharedLibraryMainC, see full log file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/compileHello-android-jniMips64ReleaseSharedLibraryHello-android-jniMips64ReleaseSharedLibraryMainC/output.txt.

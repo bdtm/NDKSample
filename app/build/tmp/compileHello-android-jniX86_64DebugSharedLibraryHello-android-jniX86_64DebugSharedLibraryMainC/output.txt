@@ -1,0 +1,4 @@
+See file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/compileHello-android-jniX86_64DebugSharedLibraryHello-android-jniX86_64DebugSharedLibraryMainC/output.txt for all output for compileHello-android-jniX86_64DebugSharedLibraryHello-android-jniX86_64DebugSharedLibraryMainC.
+compiling hello-android-jni.c successful.
+
+Finished compileHello-android-jniX86_64DebugSharedLibraryHello-android-jniX86_64DebugSharedLibraryMainC, see full log file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/compileHello-android-jniX86_64DebugSharedLibraryHello-android-jniX86_64DebugSharedLibraryMainC/output.txt.

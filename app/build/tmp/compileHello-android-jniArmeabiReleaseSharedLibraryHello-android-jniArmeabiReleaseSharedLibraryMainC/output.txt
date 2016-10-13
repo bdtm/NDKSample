@@ -1,0 +1,4 @@
+See file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/compileHello-android-jniArmeabiReleaseSharedLibraryHello-android-jniArmeabiReleaseSharedLibraryMainC/output.txt for all output for compileHello-android-jniArmeabiReleaseSharedLibraryHello-android-jniArmeabiReleaseSharedLibraryMainC.
+compiling hello-android-jni.c successful.
+
+Finished compileHello-android-jniArmeabiReleaseSharedLibraryHello-android-jniArmeabiReleaseSharedLibraryMainC, see full log file:///D:/Project/Android/Sample/NDKSample/app/build/tmp/compileHello-android-jniArmeabiReleaseSharedLibraryHello-android-jniArmeabiReleaseSharedLibraryMainC/output.txt.

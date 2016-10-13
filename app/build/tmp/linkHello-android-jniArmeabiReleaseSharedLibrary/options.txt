@@ -1,0 +1,12 @@
+-shared
+-Wl,-soname,libhello-android-jni.so
+-o
+D:\\Project\\Android\\Sample\\NDKSample\\app\\build\\intermediates\\binaries\\release\\obj\\armeabi\\libhello-android-jni.so
+D:\\Project\\Android\\Sample\\NDKSample\\app\\build\\intermediates\\objectFiles\\hello-android-jniArmeabiReleaseSharedLibraryMainC\\8ujuic4lojh7euv9wbliyj9f1\\hello-android-jni.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+--sysroot=C:\\Users\\Asus\\AppData\\Local\\Android\\sdk\\ndk-bundle/platforms/android-23/arch-arm
+-Wl,--build-id
+-no-canonical-prefixes
